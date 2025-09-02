@@ -34,11 +34,6 @@ Job Category Filter
 
 
 
-Discussion Chamber
-
-![Screenshot 2023-01-28 at 8 52 19 PM](https://avatars.githubusercontent.com/u/118998888?s=400&u=41ac299450fc6d232a4088b0723b3c10fc2294b9&v=4)
-
-
 
 
 
@@ -48,4 +43,4 @@ Tools and Technology Used:-
 2.React JS
 3.Sanity for Backend.
 4.VS Code
-5.Vercel for deployment.
+
